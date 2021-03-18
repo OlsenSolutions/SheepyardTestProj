@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E07DAE4F-4E3E-8BEF-4D67-661768017599}</ProjectGuid>
+    <ProjectGuid>{F9109F49-BABD-BE04-94AE-DB2018947087}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -98,31 +98,31 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/EndlessRunnerSheepyard/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/Tomek/Desktop/OlsenSolutionsWebsite/SheepyardTestProj/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/2019.3.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
